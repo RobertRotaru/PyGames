@@ -1,0 +1,45 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 920MX (ID=0x134f)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Desktop\Projects\The Maze\The Maze_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Projects\The Maze\The Maze_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Projects\The Maze\The Maze_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Projects\The Maze\The Maze_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Projects\The Maze\The Maze_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Projects\The Maze\The Maze_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Projects\The Maze\The Maze_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Projects\The Maze\The Maze_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.269 seconds
+Platform assembly: C:\Users\User\Desktop\Projects\The Maze\The Maze_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\User\Desktop\Projects\The Maze\The Maze_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.572400 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.867500 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 956.
+Total: 0.412300 ms (FindLiveObjects: 0.056200 ms CreateObjectMapping: 0.020000 ms MarkObjects: 0.327500 ms  DeleteObjects: 0.007700 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.952100 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 205.
+Total: 0.375400 ms (FindLiveObjects: 0.024400 ms CreateObjectMapping: 0.012000 ms MarkObjects: 0.277300 ms  DeleteObjects: 0.060800 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.621900 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 956.
+Total: 0.318700 ms (FindLiveObjects: 0.054600 ms CreateObjectMapping: 0.020500 ms MarkObjects: 0.236800 ms  DeleteObjects: 0.006400 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 12fc -> priority: 1 
